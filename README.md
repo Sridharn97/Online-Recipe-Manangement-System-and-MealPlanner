@@ -53,26 +53,26 @@ Project Overview
     - Download the MySQL Connector JAR file from the [official MySQL website](https://dev.mysql.com/downloads/connector/j/).
     - Add the JAR file to your project’s classpath.
 4.**Program Structure**
-   ---bash
- RecipeManagementMealPlanner/
-├── src/
-│   ├── com/
-│   │   ├── mealplanner/
-│   │   │   ├── models/
-│   │   │   │   ├── Ingredient.java
-│   │   │   │   ├── MealPlan.java
-│   │   │   │   ├── MealPlanRecipe.java
-│   │   │   │   ├── Recipe.java
-│   │   │   │   └── User.java
-│   │   │   ├── services/
-│   │   │   │   ├── DatabaseManager.java
-│   │   │   │   ├── FileHandler.java
-│   │   │   │   └── DBConnection.java
-│   │   │   ├── Main.java
-├── database/
-│   └── mealplanner.sql
-└── lib/
-    └── mysql-connector-java.jar
 
----bash
+              RecipeManagementMealPlanner/
+              ├── src/
+              │   ├── com/
+              │   │   ├── mealplanner/
+              │   │   │   ├── models/
+              │   │   │   │   ├── Ingredient.java
+              │   │   │   │   ├── MealPlan.java
+              │   │   │   │   ├── MealPlanRecipe.java
+              │   │   │   │   ├── Recipe.java
+              │   │   │   │   └── User.java
+              │   │   │   ├── services/
+              │   │   │   │   ├── DatabaseManager.java
+              │   │   │   │   ├── FileHandler.java
+              │   │   │   │   └── DBConnection.java
+              │   │   │   ├── Main.java
+              ├── database/
+              │   └── mealplanner.sql
+              └── lib/
+                   └── mysql-connector-java.jar
+
+
 

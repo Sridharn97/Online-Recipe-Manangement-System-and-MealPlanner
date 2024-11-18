@@ -7,7 +7,7 @@ Project Overview
           including classes, collections, file handling, JDBC for database interactions, and user authentication.
           This system enables users to organize their recipes, manage ingredients, plan meals, and ensure seamless data handling through file operations and database storage.
 
-Core Functionalities
+#Core Functionalities
 1.	User Authentication:Register new users,Login with existing user credentials.
 2.	Recipe Management:Add new recipes with details such as name, category, instructions, servings, prep time, and cook time.View all recipes,Save recipes to a file,Load recipes from a file.
 3.	Ingredient Management:Add ingredients associated with specific recipes.View all ingredients.View ingredients by recipe ID.Save ingredients to a file.Load ingredients from a file.
@@ -17,12 +17,12 @@ Core Functionalities
 7.	File Handling:Backup and retrieve data for recipes, ingredients, meal plans, and meal plan recipes using file operations.
 8.	Exception Handling:Manage errors such as invalid inputs, duplicate entries, and database connection issues to ensure smooth operation of the application.
 
-Technology Stack
+#Technology Stack
   Programming Language:
      Java
   Database:
      MySQL
-Libraries and Tools:
+  Libraries and Tools:
    Collections: Java Collections Framework (e.g., ArrayList)
    File Handling: Java I/O APIs
    Multithreading: Java concurrency utilities
@@ -30,6 +30,7 @@ Libraries and Tools:
    Development Environment: Eclipse IDE or any other preferred Java IDE
 Dependencies:
    MySQL Connector/J: MySQL JDBC driver for connecting Java applications to a MySQL database
+
 
 
 

@@ -32,11 +32,10 @@ Dependencies:
    MySQL Connector/J: MySQL JDBC driver for connecting Java applications to a MySQL database
 
 # Installation and Setup
-# Prerequisites
-   1.Java Development Kit (JDK): Ensure you have JDK version 11 or higher installed.
-   2.MySQL: Install and run MySQL.
-   3.JDBC Driver for MySQL: Download the MySQL Connector/J (JDBC driver) from the official MySQL webs
-
+### Prerequisites
+- Java Development Kit (JDK) version 11 or higher.
+- MySQL installed and running.
+- JDBC Driver for MySQL.
 
 
 

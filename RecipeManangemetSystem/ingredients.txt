@@ -1,0 +1,53 @@
+
+
+IngredientId: 1
+RecipeID: 1
+Name: Pasta
+Quantity: 2.0
+Unit: pastas
+
+IngredientId: 2
+RecipeID: 1
+Name: Tomato
+Quantity: 2.0
+Unit: tomatoes
+
+IngredientId: 3
+RecipeID: 1
+Name: Sause
+Quantity: 1.0
+Unit: spoon
+
+IngredientId: 4
+RecipeID: 1
+Name: Masala
+Quantity: 2.0
+Unit: spoons
+Ingredient ID: 0
+Recipe ID: 1
+Name: Vegetables
+Quantity: 2.0 kgs
+Ingredient ID: 5
+Recipe ID: 2
+Name: Chicken
+Quantity: 2.0 kgs
+Ingredient ID: 6
+Recipe ID: 2
+Name: Masala
+Quantity: 2.0 spoons
+Ingredient ID: 7
+Recipe ID: 2
+Name: Water
+Quantity: 2.0 litres
+Ingredient ID: 0
+Recipe ID: 5
+Name: Masala
+Quantity: 2.0 spoons
+Ingredient ID: 0
+Recipe ID: 3
+Name: Masala
+Quantity: 2.0 spoons
+Ingredient ID: 0
+Recipe ID: 1
+Name: bbbbb
+Quantity: 2.0 cups

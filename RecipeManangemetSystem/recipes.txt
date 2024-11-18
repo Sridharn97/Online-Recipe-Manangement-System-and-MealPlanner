@@ -1,0 +1,43 @@
+
+Recipe ID: 1
+Name: Spaghetti Bolognese
+Category: Dinner
+Instructions: Cook pasta, prepare sauce, mix together.
+Servings: 4
+Prep Time: 10 minutes
+Cook Time: 30 minutes
+Recipe ID: 2
+Name:  Chicken Curry
+Category: Main Course
+Instructions: In a large pot, heat oil over medium heat. Add onions and cook until translucent. Stir in garlic, ginger, and spices and cook for 1 minute. Add chicken and cook until browned. Stir in tomatoes and coconut milk. Simmer for 20 minutes.
+Servings: 6
+Prep Time: 10 minutes
+Cook Time: 30 minutes
+Recipe ID: 3
+Name:  Caesar Salad
+Category: Salad
+Instructions:  In a large bowl, whisk together the dressing ingredients. Add romaine lettuce and toss to coat. Top with croutons and grated Parmesan cheese.
+Servings: 3
+Prep Time: 10 minutes
+Cook Time: 0 minutes
+Recipe ID: 0
+Name: Veggie Stir-fry
+Category: Main Course
+Instructions: nnnnnnnnnnnnnnnn
+Servings: 2
+Prep Time: 10 minutes
+Cook Time: 30 minutes
+Recipe ID: 0
+Name: mmmm
+Category: desert
+Instructions: nmmnmnmnmnmjguhvgcgc
+Servings: 2
+Prep Time: 10 minutes
+Cook Time: 20 minutes
+Recipe ID: 0
+Name: mmmmm
+Category: Diner
+Instructions: ncmdfjkefbjkawfhj
+Servings: 4
+Prep Time: 10 minutes
+Cook Time: 30 minutes

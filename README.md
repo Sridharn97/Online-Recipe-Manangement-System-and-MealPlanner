@@ -33,6 +33,27 @@ Project Overview
 - Java Development Kit (JDK) version 11 or higher.
 - MySQL installed and running.
 - JDBC Driver for MySQL.
+  ### Steps
+
+1. **Clone the Repository**
+    ```bash
+    git clone https://github.com/your-username/recipe-management-meal-planner.git
+    cd recipe-management-meal-planner
+    ```
+
+2. **Setup MySQL Database**
+    - Create a MySQL database named `mealplanner`.
+    - Execute the SQL script `schema.sql` to create the necessary tables.
+    - Update the database credentials in `Main.java`:
+      ```java
+      databaseManager = new DatabaseManager("jdbc:mysql://localhost:3306/mealplanner", "your-username", "your-password");
+      ```
+
+3. **Add MySQL Connector JAR**
+    - Download the MySQL Connector JAR file from the [official MySQL website](https://dev.mysql.com/downloads/connector/j/).
+    - Add the JAR file to your project’s classpath.
+
+
 
 
 

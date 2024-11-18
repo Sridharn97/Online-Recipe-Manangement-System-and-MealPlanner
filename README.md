@@ -17,18 +17,16 @@ Project Overview
 7.	File Handling:Backup and retrieve data for recipes, ingredients, meal plans, and meal plan recipes using file operations.
 8.	Exception Handling:Manage errors such as invalid inputs, duplicate entries, and database connection issues to ensure smooth operation of the application.
 
-# Technology Stack
-Programming Language:
-     Java
-Database:
-     MySQL
-Libraries and Tools:
-   Collections: Java Collections Framework (e.g., ArrayList)
-   File Handling: Java I/O APIs
-   Multithreading: Java concurrency utilities
-   Database Connectivity: JDBC (Java Database Connectivity)
-   Development Environment: Eclipse IDE or any other preferred Java IDE
-Dependencies:
+## Technology Stack
+
+- **Programming Language:** Java
+- **Database:** MySQL
+- **Libraries and Tools:**
+  - Collections: `ArrayList`
+  - File Handling: Java I/O APIs
+  - Database Connectivity: JDBC
+- **Development Environment:** Eclipse
+-**Dependencies:**
    MySQL Connector/J: MySQL JDBC driver for connecting Java applications to a MySQL database
 
 # Installation and Setup

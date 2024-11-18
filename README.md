@@ -66,18 +66,12 @@ RecipeManagementMealPlanner/
 │   │   │   ├── services/
 │   │   │   │   ├── DatabaseManager.java
 │   │   │   │   ├── FileHandler.java
-│   │   │   │   ├── MealPlanService.java
-│   │   │   │   ├── RecipeService.java
-│   │   │   │   └── UserService.java
+│   │   │   │   └── DBConnection.java
 │   │   │   ├── Main.java
-│   │   │   └── Menu.java
 ├── database/
-│   ├── mealplanner.sql
+│   └── mealplanner.sql
 └── lib/
     └── mysql-connector-java.jar
-
-
-
 
 
 

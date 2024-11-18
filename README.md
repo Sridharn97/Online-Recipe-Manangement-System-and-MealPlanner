@@ -36,8 +36,8 @@ Project Overview
   ### Steps
 
 1. **Clone the Repository**
-    ```bash
-    git clone https://github.com/your-username/recipe-management-meal-planner.git
+    ```bash[
+    git clone : https://github.com/Sridharn97/Online-Recipe-Manangement-System-and-MealPlanner.git
     cd recipe-management-meal-planner
     ```
 

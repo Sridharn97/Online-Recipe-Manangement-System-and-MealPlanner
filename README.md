@@ -1,10 +1,12 @@
 # Online-Recipe-Manangement-System-and-MealPlanner
-The Online Recipe Management and Meal Planner System is a comprehensive web application designed to simplify the process of meal planning and recipe management. Developed using Java and MySQL, this system offers a user-friendly interface and robust backend capabilities to help users organize their culinary activities efficiently.
+           The Online Recipe Management and Meal Planner System is a comprehensive web application designed to simplify the process of meal planning and recipe management. Developed using Java and MySQL, this 
+           system offers a user-friendly interface and robust backend capabilities to help users organize their culinary activities efficiently.
 
 Project Overview
-The Online Recipe Management and Meal Planner is a Java-based application designed to help users manage their recipes, ingredients, and meal plans efficiently. It utilizes various Java concepts including classes, collections, file handling, JDBC for database interactions, and user authentication.
+          The Online Recipe Management and Meal Planner is a Java-based application designed to help users manage their recipes, ingredients, and meal plans efficiently. It utilizes various Java concepts 
+          including classes, collections, file handling, JDBC for database interactions, and user authentication.
 
-This system enables users to organize their recipes, manage ingredients, plan meals, and ensure seamless data handling through file operations and database storage.
+          This system enables users to organize their recipes, manage ingredients, plan meals, and ensure seamless data handling through file operations and database storage.
 
 Core Functionalities
 1.	User Authentication:

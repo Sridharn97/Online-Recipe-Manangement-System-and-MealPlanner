@@ -52,7 +52,8 @@ Project Overview
 3. **Add MySQL Connector JAR**
     - Download the MySQL Connector JAR file from the [official MySQL website](https://dev.mysql.com/downloads/connector/j/).
     - Add the JAR file to your project’s classpath.
-4.**Program Structure**
+      
+4. **Program Structure**
 
               RecipeManagementMealPlanner/
               ├── src/

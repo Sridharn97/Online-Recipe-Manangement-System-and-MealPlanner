@@ -18,17 +18,17 @@ Project Overview
 8.	Exception Handling:Manage errors such as invalid inputs, duplicate entries, and database connection issues to ensure smooth operation of the application.
 
 # Technology Stack
-  Programming Language:
+Programming Language:
      Java
-  Database:
+Database:
      MySQL
-  Libraries and Tools:
+Libraries and Tools:
    Collections: Java Collections Framework (e.g., ArrayList)
    File Handling: Java I/O APIs
    Multithreading: Java concurrency utilities
    Database Connectivity: JDBC (Java Database Connectivity)
    Development Environment: Eclipse IDE or any other preferred Java IDE
- Dependencies:
+Dependencies:
    MySQL Connector/J: MySQL JDBC driver for connecting Java applications to a MySQL database
 
 # Installation and Setup
